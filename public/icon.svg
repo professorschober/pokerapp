@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Pokerregeln App Icon</title>
+  <rect width="512" height="512" rx="96" fill="#15523b" />
+  <circle cx="256" cy="256" r="176" fill="#1f7a57" stroke="#f0c04d" stroke-width="20" />
+  <g transform="rotate(-10 226 246)">
+    <rect x="124" y="126" width="148" height="216" rx="18" fill="#fffdf7" stroke="#d8d1c2" stroke-width="7" />
+    <text x="150" y="184" fill="#c22e2e" font-family="Arial, sans-serif" font-size="58" font-weight="700">A</text>
+    <text x="188" y="282" fill="#c22e2e" font-family="Arial, sans-serif" font-size="78" font-weight="700">♥</text>
+  </g>
+  <g transform="rotate(12 294 264)">
+    <rect x="238" y="150" width="148" height="216" rx="18" fill="#fffdf7" stroke="#d8d1c2" stroke-width="7" />
+    <text x="264" y="208" fill="#111111" font-family="Arial, sans-serif" font-size="58" font-weight="700">K</text>
+    <text x="300" y="304" fill="#111111" font-family="Arial, sans-serif" font-size="78" font-weight="700">♠</text>
+  </g>
+  <circle cx="332" cy="352" r="48" fill="#d34e3f" stroke="#fff9ea" stroke-width="10" stroke-dasharray="12 10" />
+  <circle cx="382" cy="346" r="48" fill="#263f91" stroke="#fff9ea" stroke-width="10" stroke-dasharray="12 10" />
+</svg>
